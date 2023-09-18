@@ -1,7 +1,7 @@
 ## Olá! Eu sou Thiago Oliveira 👋
 <div>
   <a href="https://github.com/tibasoliver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tibasoliver&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibasoliver&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
